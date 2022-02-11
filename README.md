@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cuebitar from Malaysia
 - 👀 I’m interested in becoming Web full-stack developer and App developer 
-- 🌱 I’m currently learning Javascript, HTML, CSS, C++
+- 🌱 I’m currently learning Javascript, HTML, CSS, C++, Java, Sql, php
 - 💻 I'm intrested learning more on Web and Application based programming language
 - 💞️ I’m looking to collaborate on application or web project
 - 📫 How to reach me 
